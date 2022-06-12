@@ -1,0 +1,52 @@
+Data Set Information:
+
+This data set contains 416 liver patient records and 167 non liver patient records.The data set was collected from north east of Andhra Pradesh, India. Selector is a class label used to divide into groups(liver patient or not). This data set contains 441 male patient records and 142 female patient records. 
+
+Any patient whose age exceeded 89 is listed as being of age "90".
+
+
+Attribute Information:
+
+1. Age	Age of the patient 
+2. Gender	Gender of the patient 
+3. TB	Total Bilirubin 
+4. DB	Direct Bilirubin 
+5. Alkphos Alkaline Phosphotase 
+6. Sgpt Alamine Aminotransferase 
+7. Sgot Aspartate Aminotransferase 
+8. TP	Total Protiens 
+9. ALB	Albumin 
+10. A/G Ratio	Albumin and Globulin Ratio 
+11. Selector field used to split the data into two sets (labeled by the experts) 
+
+
+
+
+Attribute Information 
+V1. Age of the patient. Any patient whose age exceeded 89 is listed as being of age “90”.
+V2. Gender of the patient
+V3. Total Bilirubin
+V4. Direct Bilirubin
+V5. Alkphos Alkaline Phosphatase
+V6. Sgpt Alanine Aminotransferase
+V7. Sgot Aspartate Aminotransferase
+V8. Total Proteins
+V9. Albumin
+V10. A/G Ratio Albumin and Globulin Ratio
+
+A feature indicating a train-test split has been removed.
+
+
+
+Field Name	Order	Type (Format)	Description
+V1	1	number (default)	
+V2	2	string (default)	
+V3	3	number (default)	
+V4	4	number (default)	
+V5	5	number (default)	
+V6	6	number (default)	
+V7	7	number (default)	
+V8	8	number (default)	
+V9	9	number (default)	
+V10	10	number (default)	
+Class	11	number (default)
